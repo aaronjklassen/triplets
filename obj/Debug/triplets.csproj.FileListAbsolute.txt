@@ -1,7 +1,7 @@
 C:\Users\aaron\source\repos\triplets\triplets\bin\Debug\triplets.exe.config
 C:\Users\aaron\source\repos\triplets\triplets\bin\Debug\triplets.exe
 C:\Users\aaron\source\repos\triplets\triplets\bin\Debug\triplets.pdb
-C:\Users\aaron\source\repos\triplets\triplets\obj\Debug\triplets.csprojResolveAssemblyReference.cache
 C:\Users\aaron\source\repos\triplets\triplets\obj\Debug\triplets.csproj.CoreCompileInputs.cache
 C:\Users\aaron\source\repos\triplets\triplets\obj\Debug\triplets.exe
 C:\Users\aaron\source\repos\triplets\triplets\obj\Debug\triplets.pdb
+C:\Users\aaron\source\repos\triplets\triplets\obj\Debug\triplets.csprojAssemblyReference.cache
